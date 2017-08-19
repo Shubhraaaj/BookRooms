@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Rooms</string>
+    <string name="bed_1">BED 1</string>
+    <string name="bed_2">BED 2</string>
+    <string name="bed_3">BED 3</string>
+    <string name="bed_4">BED 4</string>
+    <string name="bed_5">BED 5</string>
+    <string name="info">Please click on the button below to book beds.</string>
+    <string name="book_beds">Book Beds</string>
+</resources>
